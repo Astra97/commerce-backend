@@ -3,7 +3,7 @@
 ## Description
 A mysql database and backend application for a e-commerce site. Uses mysql2, sequelize, dotenv, and express.js
 
-!(imges\Challeng-13-pic-1.png)
+![screenshot](imges\Challeng-13-pic-1.png)
 ## Installation
 npm init
 
